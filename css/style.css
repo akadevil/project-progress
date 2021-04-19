@@ -1,0 +1,72 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/c6/22/46/c62246425d2c45d07ff2ad24ecd620cc.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.input1 {
+  opacity: 0.5;	
+}
+.maindiv {
+  background-color:  #cccccc;
+  opacity: 0.8;
+  width: 600px;
+  height:700px;
+  margin: auto;  
+}
+.header {
+	margin-left: 5px;
+	font-weight: 100;
+}
+.text {
+	width: 590px;
+	height: 200px;
+	margin-left: 5px;
+	font-size: 10px;
+	margin-top: -10px;
+}
+.line {
+	width: 590px;
+	height: 1px;
+	background-color: black;
+	margin-left: 5px;
+	margin-top: -140px;
+	
+}
+.first {
+    margin-left: 5px;
+	width: 260px;
+}
+.name {
+	font-size: 20px;
+	margin-left: 5px;
+}
+.last {
+	margin-left: 20px;
+	width: 260px;
+}
+.number {
+	margin-left: 5px;
+	width: 265px;
+	height: 25px;
+}
+.select {
+	background-color: whithe;
+	height: 100px;
+	width: 265px;
+	margin-left: 295px;
+	margin-top: -80px;
+}
+.enyan1 {
+	margin-left: 125px;
+	margin-top: -39px;
+}
+.button {
+	margin-left:240px;
+	background-color: black;
+	color: white;
+	height: 30px;
+	width:100px;
+	font-size: 20px;
+	margin-top: 50px;
+}
