@@ -1,0 +1,152 @@
+.maindiv {
+	height: 580px;
+	width: 700px;
+	background: #cccccc;
+	margin: auto;
+}
+.c {
+	width: 150px;
+	height: 100px;
+	background:  #ff944d;
+	margin-left: 445px;
+	margin-top: -560px;
+
+}
+.display {
+	width: 470px;
+	height: 100px;
+	background:  #999999;
+	margin-left: 605px;
+	margin-top: -100px;
+	font-size: 50px;
+}
+.button2 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 445px;
+	margin-top: 10px;
+}
+.button3 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 605px;
+	margin-top: -100px;
+}
+.button4 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 765px;
+	margin-top: -100px;
+}
+
+.button5 {
+	width: 150px;
+	height: 100px;
+	background:  #ff5500;
+	margin-left: 925px;
+	margin-top: -100px;
+}
+
+.button6 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 445px;
+	margin-top: 10px;
+}
+.button7 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 605px;
+	margin-top: -100px;
+}
+.button8 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 765px;
+	margin-top: -100px;	
+}
+.button9 {
+	width: 150px;
+	height: 100px;
+	background:  #ff5500;
+	margin-left: 925px;
+	margin-top: -100px;
+}
+.button10 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 445px;
+	margin-top: 10px;
+}
+.button11 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 605px;
+	margin-top: -100px;
+}
+.button12 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 765px;
+	margin-top: -100px;	
+}
+.button13 {
+	width: 150px;
+	height: 100px;
+	background:  #ff5500;
+	margin-left: 925px;
+	margin-top: -100px;
+}
+.button14 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 445px;
+	margin-top: 10px;
+}
+.button15 {
+	width: 150px;
+	height: 100px;
+	background:  #668cff;
+	margin-left: 605px;
+	margin-top: -100px;
+}
+.button16 {
+	width: 150px;
+	height: 100px;
+	background:  #999966;
+	margin-left: 765px;
+	margin-top: -100px;	
+}
+.button17 {
+	width: 150px;
+	height: 100px;
+	background:  #ff5500;
+	margin-left: 925px;
+	margin-top: -100px;	
+}
+.cc {
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 65px;
+}
+.inpt {
+	width: 470px;
+	height: 100px;
+	background:  #999999;
+    font-size: 100px;
+}
+.button18 {
+	width: 150px;
+	height: 100px;
+	background:  #ff5500;	
+}
