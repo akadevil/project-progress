@@ -7,7 +7,7 @@
 
   const tableBody = document.querySelector("#cars-table tbody");
 
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 30; i++) {
     carLabels.push(`${json.cars[i].car} - ${json.cars[i].car_model}`);
     carPrices.push(Number(json.cars[i].price.substring(1)));
 
