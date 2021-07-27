@@ -3,4 +3,4 @@
 ### Name:Davo
 ### Age: 20
 ### Bio: I am a student in ASUE
-### How to reach me:hakobyan.davo00@gmail.com
+### How to reach me:096-07-50-60
